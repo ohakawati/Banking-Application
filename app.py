@@ -3,11 +3,11 @@ import psycopg2
 import psycopg2.extras
 from datetime import datetime, timezone
 
-hostname = 'localhost'
-database = 'appdb'
-username = 'postgres'
-pwd = 'cs425'
-port_id = 5432
+hostname = ''
+database = ''
+username = ''
+pwd = ''
+port_id = 
 conn = None
 cur = None
 
